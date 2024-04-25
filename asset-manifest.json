@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/CoderHub/static/css/main.6f8b1c4c.css",
+    "main.js": "/CoderHub/static/js/main.f84962da.js",
+    "static/media/ethack.png": "/CoderHub/static/media/ethack.83d56c52291255f6c7ae.png",
+    "static/media/html.png": "/CoderHub/static/media/html.09b8a677107d4a758855.png",
+    "static/media/php.png": "/CoderHub/static/media/php.7446442034aa13bc2422.png",
+    "static/media/cp.png": "/CoderHub/static/media/cp.f0d3eb7c1baf7805e4ba.png",
+    "static/media/python.png": "/CoderHub/static/media/python.45e642af57334790d349.png",
+    "static/media/dbms.png": "/CoderHub/static/media/dbms.5f505ea6d8ca713b9e19.png",
+    "static/media/java.png": "/CoderHub/static/media/java.5b294632a3409389743e.png",
+    "static/media/cysec.png": "/CoderHub/static/media/cysec.5683bfb75cadbd3beb96.png",
+    "static/media/redis.png": "/CoderHub/static/media/redis.ca0c6e3551cbed6dc949.png",
+    "static/media/css.png": "/CoderHub/static/media/css.01ac5b7ff79c0d6727fa.png",
+    "static/media/js.png": "/CoderHub/static/media/js.f4f0922228cdffb54293.png",
+    "static/media/mysql.png": "/CoderHub/static/media/mysql.7182e733e0bf4473aca4.png",
+    "static/media/cass.png": "/CoderHub/static/media/cass.62c145259c77e7e92020.png",
+    "static/media/oracle.png": "/CoderHub/static/media/oracle.e086a1ec1aceaf1a2ac2.png",
+    "static/media/nodej.png": "/CoderHub/static/media/nodej.65d7eff442e3171677d7.png",
+    "static/media/logo1.png": "/CoderHub/static/media/logo1.b2ab6347476f9dd127c8.png",
+    "static/media/neo.png": "/CoderHub/static/media/neo.13afe51b8d3f0a00b38a.png",
+    "static/media/jqr.png": "/CoderHub/static/media/jqr.f3d3528316e309944e8b.png",
+    "index.html": "/CoderHub/index.html",
+    "main.6f8b1c4c.css.map": "/CoderHub/static/css/main.6f8b1c4c.css.map",
+    "main.f84962da.js.map": "/CoderHub/static/js/main.f84962da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f8b1c4c.css",
+    "static/js/main.f84962da.js"
+  ]
+}
